@@ -79,4 +79,3 @@ while True:
     cv2.imshow("Image",img)
     #cv2.imshow("ImageRegion",imgRegion)
     cv2.waitKey(1)
-
